@@ -11,15 +11,15 @@ Este projeto explora o uso de IAs generativas para criar conteúdos realistas e 
 - DALL·E para geraçãoo de imagens ilustrativas
 - Git e GitHub para versionamento de código
 
-## ðŸ§ Processo de CriaÃ§Ã£o
-1. **Planejamento:** Definimos o tema "TendÃªncias TecnolÃ³gicas" para o e-book.  
-2. **CriaÃ§Ã£o de ConteÃºdo:** Utilizamos o ChatGPT para redigir os textos e o DALLÂ·E para gerar imagens temÃ¡ticas.  
-3. **Montagem do E-book:** Organizamos o conteÃºdo em um arquivo PDF com design limpo e profissional.
+## Processo de Criação 
+1. Planejamento: Definimos o tema "Tendências Tecnológicas" para o e-book.  
+2. Criação de Conteúdo: Utilizamos o ChatGPT para redigir os textos e o DALL·E para gerar imagens temáticas.  
+3. Montagem do E-book: Organizamos o conteúdo em um arquivo PDF com design limpo e profissional.
 
-## ðŸš€ Resultados
-- **E-book:** â€œComo as IAs EstÃ£o Transformando o Mundoâ€  
-  Inclui tÃ³picos como inteligÃªncia artificial em saÃºde, educaÃ§Ã£o e entretenimento.  
-- **Imagem:** Uma ilustraÃ§Ã£o gerada no DALLÂ·E representando a interaÃ§Ã£o entre humanos e robÃ´s.
+## Resultados
+- E-book: Como as IAs Estão Transformando o Mundo  
+  Inclui tópicos como inteligência artificial em saúde, educação e entretenimento.  
+- Imagem: Uma ilustração gerada no DALL·E representando a interação entre humanos e robôs.
 
-## ðŸ’­ ReflexÃ£o
-Este projeto demonstrou o potencial das IAs generativas para acelerar a produÃ§Ã£o de conteÃºdo criativo, mantendo uma alta qualidade. Foi uma experiÃªncia valiosa para entender as aplicaÃ§Ãµes prÃ¡ticas dessas tecnologias.
+##­ Reflexão 
+Este projeto demonstrou o potencial das IAs generativas para acelerar a produção de conteúdo criativo, mantendo uma alta qualidade. Foi uma experiência valiosa para entender as aplicações práticas dessas tecnologias.
